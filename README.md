@@ -2,8 +2,11 @@ Ethereum Private Key Finder V2
 
 Private Key Finder Ethereum From Rich Wallet List 
 
-**first install all package's after download hexer.py and running program on consol or terminal.
-this version without synce database etherscan an node , for use all in one can use pro version.** [Pro Version](https://t.me/Crypto_ixer)
+**First, install all packages after downloading hexer.py and running the programme on the console or terminal. 
+
+This version without synce database etherscan an node, for use all in one, can use the pro version.
+
+** [Pro Version](https://t.me/Crypto_ixer)
 
 
 ![cryptox](https://github.com/cryptoixer/EthereumPrivateKeyFinder/assets/149633709/eb5b38bc-1a57-4182-899d-707f78e394b2)
