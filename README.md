@@ -1,4 +1,4 @@
-Ethereum Rich Wallet Private Key Finder V2
+Ethereum Private Key Finder V2
 
 Private Key Finder Ethereum From Rich Wallet List 
 
@@ -10,9 +10,9 @@ this version without synce database etherscan an node , for use all in one can u
 
 
 
-For Buy Complate This Source and Data List 
+For Buy Complete This Source and Data List 
 
- [![ORDER NOW]
+ORDER NOW
 
 Telegram : `t.me/Crypto_devz`
 
