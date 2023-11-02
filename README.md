@@ -6,6 +6,9 @@ Private Key Finder Ethereum From Rich Wallet List
 this version without synce database etherscan an node , for use all in one can use pro version.** [Pro Version](https://t.me/Crypto_ixer)
 
 
+![cryptox](https://github.com/cryptoixer/EthereumPrivateKeyFinder/assets/149633709/eb5b38bc-1a57-4182-899d-707f78e394b2)
+
+
 
 For Buy Complate This Source and Data List 
 
@@ -18,6 +21,7 @@ First Install This Package's :
 ```
 pip install hdwallet
 pip install colorama
+git clone https://github.com/cryptoixer/EthereumPrivateKeyFinder.git
 ```
 
 After install Run Program With This Common On Terminal or Consol (`richeth.py`)
