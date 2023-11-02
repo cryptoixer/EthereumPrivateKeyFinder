@@ -13,7 +13,7 @@ This version without synce database etherscan an node, for use all in one, can u
 
 
 
-For Buy Complete This Source and Data List 
+Buy Complete This Source and Data List 
 
 ORDER NOW
 
